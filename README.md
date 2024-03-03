@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Wilfort and I'm a Software Engineer from Nigeria.</h1>
+<h1 align="left">Hi 👋! I'm Wilfort and I am a Software Engineer from Nigeria.</h1>
 
 ###
 
