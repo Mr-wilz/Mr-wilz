@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋! I'm Wilfort and I am a Software Engineer from Nigeria.</h1>
 
+![gitartwork](gitartwork.svg)
+
 ###
 
 <div align="center">
